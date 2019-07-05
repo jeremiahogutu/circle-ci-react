@@ -1,4 +1,5 @@
-[![CircleCI](https://circleci.com/gh/jeremiahogutu/circle-ci-react.svg?style=svg)](https://circleci.com/gh/jeremiahogutu/circle-ci-react)
-
 # circle-ci-react
+![CircleCI](https://img.shields.io/circleci/build/github/jeremiahogutu/circle-ci-react.svg)
+
+
 
